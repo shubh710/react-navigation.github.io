@@ -157,7 +157,7 @@ React Element to display on the right side of the header.
 
 #### `headerLeft`
 
-React Element or Component to display on the left side of the header. When a component is used, it receives a number of props when rendered (`onPress`, `title`, `titleStyle` and more - check [Header.tsx](https://github.com/react-navigation/react-navigation-stack/blob/master/src/views/Header/Header.tsx) for the complete list).
+React Element or Component to display on the left side of the header. When a component is used, it receives a number of props when rendered (`onPress`, `title`, `titleStyle` and more - check [Header.tsx](https://github.com/react-navigation/react-navigation/blob/main/packages/stack/src/views/Header/Header.tsx) for the complete list).
 
 #### `headerStyle`
 
